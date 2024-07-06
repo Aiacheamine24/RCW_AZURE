@@ -1,0 +1,5 @@
+# All __pycache__ directories
+__pycache__/
+
+# Virtual environment
+env/

@@ -1,0 +1,234 @@
+{
+  "Standard Scaler": {
+    "transformer": "StandardScaler()",
+    "transformer_name": "Standard Scaler",
+    "Decision Tree": {
+      "model": "DecisionTreeClassifier()",
+      "classifier_name": "Decision Tree",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "auc_roc": 1.0
+    },
+    "Logistic Regression": {
+      "model": "LogisticRegression()",
+      "classifier_name": "Logistic Regression",
+      "accuracy": 0.8634146341463415,
+      "precision": 0.8264462809917356,
+      "recall": 0.9345794392523364,
+      "f1_score": 0.8771929824561403,
+      "auc_roc": 0.8601468624833111
+    },
+    "K-Nearest Neighbors": {
+      "model": "KNeighborsClassifier()",
+      "classifier_name": "K-Nearest Neighbors",
+      "accuracy": 0.8780487804878049,
+      "precision": 0.8727272727272727,
+      "recall": 0.897196261682243,
+      "f1_score": 0.8847926267281107,
+      "auc_roc": 0.8771695594125501
+    },
+    "Support Vector Machine": {
+      "model": "SVC()",
+      "classifier_name": "Support Vector Machine",
+      "accuracy": 0.9658536585365853,
+      "precision": 0.9464285714285714,
+      "recall": 0.9906542056074766,
+      "f1_score": 0.9680365296803652,
+      "auc_roc": 0.9647148579057792
+    },
+    "Random Forest": {
+      "model": "RandomForestClassifier()",
+      "classifier_name": "Random Forest",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "auc_roc": 1.0
+    },
+    "AdaBoost": {
+      "model": "AdaBoostClassifier()",
+      "classifier_name": "AdaBoost",
+      "accuracy": 0.8926829268292683,
+      "precision": 0.8695652173913043,
+      "recall": 0.9345794392523364,
+      "f1_score": 0.9009009009009009,
+      "auc_roc": 0.8907591073812702
+    }
+  },
+  "Min-Max Scaler": {
+    "transformer": "MinMaxScaler()",
+    "transformer_name": "Min-Max Scaler",
+    "Decision Tree": {
+      "model": "DecisionTreeClassifier()",
+      "classifier_name": "Decision Tree",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "auc_roc": 1.0
+    },
+    "Logistic Regression": {
+      "model": "LogisticRegression()",
+      "classifier_name": "Logistic Regression",
+      "accuracy": 0.8585365853658536,
+      "precision": 0.825,
+      "recall": 0.9252336448598131,
+      "f1_score": 0.8722466960352423,
+      "auc_roc": 0.8554739652870493
+    },
+    "K-Nearest Neighbors": {
+      "model": "KNeighborsClassifier()",
+      "classifier_name": "K-Nearest Neighbors",
+      "accuracy": 0.8585365853658536,
+      "precision": 0.89,
+      "recall": 0.8317757009345794,
+      "f1_score": 0.8599033816425121,
+      "auc_roc": 0.8597654014876979
+    },
+    "Support Vector Machine": {
+      "model": "SVC()",
+      "classifier_name": "Support Vector Machine",
+      "accuracy": 0.9024390243902439,
+      "precision": 0.9065420560747663,
+      "recall": 0.9065420560747663,
+      "f1_score": 0.9065420560747663,
+      "auc_roc": 0.9022506198741178
+    },
+    "Random Forest": {
+      "model": "RandomForestClassifier()",
+      "classifier_name": "Random Forest",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "auc_roc": 1.0
+    },
+    "AdaBoost": {
+      "model": "AdaBoostClassifier()",
+      "classifier_name": "AdaBoost",
+      "accuracy": 0.8926829268292683,
+      "precision": 0.8695652173913043,
+      "recall": 0.9345794392523364,
+      "f1_score": 0.9009009009009009,
+      "auc_roc": 0.8907591073812702
+    }
+  },
+  "Normalizer": {
+    "transformer": "Normalizer()",
+    "transformer_name": "Normalizer",
+    "Decision Tree": {
+      "model": "DecisionTreeClassifier()",
+      "classifier_name": "Decision Tree",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "auc_roc": 1.0
+    },
+    "Logistic Regression": {
+      "model": "LogisticRegression()",
+      "classifier_name": "Logistic Regression",
+      "accuracy": 0.7268292682926829,
+      "precision": 0.704,
+      "recall": 0.822429906542056,
+      "f1_score": 0.7586206896551724,
+      "auc_roc": 0.7224394430669464
+    },
+    "K-Nearest Neighbors": {
+      "model": "KNeighborsClassifier()",
+      "classifier_name": "K-Nearest Neighbors",
+      "accuracy": 0.824390243902439,
+      "precision": 0.8256880733944955,
+      "recall": 0.8411214953271028,
+      "f1_score": 0.8333333333333334,
+      "auc_roc": 0.8236219721533472
+    },
+    "Support Vector Machine": {
+      "model": "SVC()",
+      "classifier_name": "Support Vector Machine",
+      "accuracy": 0.7560975609756098,
+      "precision": 0.7355371900826446,
+      "recall": 0.8317757009345794,
+      "f1_score": 0.7807017543859649,
+      "auc_roc": 0.7526225443448408
+    },
+    "Random Forest": {
+      "model": "RandomForestClassifier()",
+      "classifier_name": "Random Forest",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "auc_roc": 1.0
+    },
+    "AdaBoost": {
+      "model": "AdaBoostClassifier()",
+      "classifier_name": "AdaBoost",
+      "accuracy": 0.9609756097560975,
+      "precision": 0.9541284403669725,
+      "recall": 0.9719626168224299,
+      "f1_score": 0.9629629629629629,
+      "auc_roc": 0.9604711043295824
+    }
+  },
+  "Binarizer": {
+    "transformer": "Binarizer()",
+    "transformer_name": "Binarizer",
+    "Decision Tree": {
+      "model": "DecisionTreeClassifier()",
+      "classifier_name": "Decision Tree",
+      "accuracy": 0.8975609756097561,
+      "precision": 0.8706896551724138,
+      "recall": 0.9439252336448598,
+      "f1_score": 0.905829596412556,
+      "auc_roc": 0.8954320045775319
+    },
+    "Logistic Regression": {
+      "model": "LogisticRegression()",
+      "classifier_name": "Logistic Regression",
+      "accuracy": 0.8146341463414634,
+      "precision": 0.8053097345132744,
+      "recall": 0.8504672897196262,
+      "f1_score": 0.8272727272727273,
+      "auc_roc": 0.8129887469006294
+    },
+    "K-Nearest Neighbors": {
+      "model": "KNeighborsClassifier()",
+      "classifier_name": "K-Nearest Neighbors",
+      "accuracy": 0.8195121951219512,
+      "precision": 0.8181818181818182,
+      "recall": 0.8411214953271028,
+      "f1_score": 0.8294930875576036,
+      "auc_roc": 0.8185199313370207
+    },
+    "Support Vector Machine": {
+      "model": "SVC()",
+      "classifier_name": "Support Vector Machine",
+      "accuracy": 0.8439024390243902,
+      "precision": 0.8048780487804879,
+      "recall": 0.9252336448598131,
+      "f1_score": 0.8608695652173913,
+      "auc_roc": 0.8401678428380698
+    },
+    "Random Forest": {
+      "model": "RandomForestClassifier()",
+      "classifier_name": "Random Forest",
+      "accuracy": 0.8780487804878049,
+      "precision": 0.8360655737704918,
+      "recall": 0.9532710280373832,
+      "f1_score": 0.8908296943231441,
+      "auc_roc": 0.874594697692161
+    },
+    "AdaBoost": {
+      "model": "AdaBoostClassifier()",
+      "classifier_name": "AdaBoost",
+      "accuracy": 0.8097560975609757,
+      "precision": 0.8090909090909091,
+      "recall": 0.8317757009345794,
+      "f1_score": 0.8202764976958525,
+      "auc_roc": 0.8087449933244325
+    }
+  }
+}
